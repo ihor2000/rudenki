@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html land="ru">
+<meta charset="utf-8"/>
+<tittle>Назва сайту</tittle>
+</head>
+<body>
+  <div id = "TEXT">
+<hl>Текст</hl>
+<p>
+Общее количество перестановок из <i>n</i> элементов равно <b>произведению 
+всех целых 
+чисел</b> от <i>1</i> до <i>n</i>: P<sub>n</sub> = 1
+	&bull; 2 &bull; 3 &bull;; &#8230; &bull;(n-2&bull;(n-1) &bull;n.
+</div>
+<div id = "List">
+     
+        <HTML>
+         <HEAD>
+           <TITLE> Список определений </TITLE>
+         </HEAD>
+         <BODY>
+          <dl>
+             <dt> Ксх</dt>
+             <dd> Компьютерная схемотехника</dd>
+             <dt>ИТех</dt>
+             <dd>Интернет-технологии</dd>
+             <dt>МодС </dt>
+             <dd>Моделирование систем</dd>
+          </dl>
+          </BODY>
+        </HTML>
+    
+</div>
+<div id = "Table">
+    
+        <table border=1 rules ="groups">
+        <tr>
+        <th align="center">V </th>
+        <th align="center">VI </th>
+        </tr>
+        <colgroup>
+        
+        <colgroup>
+        <tr>
+        <td>N </td>
+        <td>O </td>
+        
+        </tr>
+        <tr>
+        <td>Азот </td>
+        <td>Кислород </td>
+        
+        </tr>
+        </table>
+
+        <title>Ввод IP-адреса</title>
+    </head>
+    <body>
+     <form>
+      <p>Информация о комплетующх ПК</p>
+      <p><input name="ip" pattern="\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}"></p>
+      <p><input type="submit" value="Отправить"></p>
+     </form>
+   
+</div>
+<!-- <a href="https://nure.ua/ru/" ><img src="https://nure.ua/wp-content/uploads/Main_Img_department/slide-img2.png" ></a>
+<a href="https://nure.ua/ru/faculty/fakultet-kompyuternyih-nauk" ><img src="https://nure.ua/wp-content/uploads/Main_Img_department/slide-img2.png" ></a>
+<a href="https://nure.ua/ru/universitet/it-prostranstvo-nure/raspisanie-zanjatij-hnurje" ><img src="https://nure.ua/wp-content/uploads/Main_Img_department/slide-img2.png" ></a> -->
+
+
+
+<img src="https://nure.ua/wp-content/uploads/Main_Img_department/slide-img2.png" usemap="#mapid">
+<map name="mapid">
+<area href="https://nure.ua/ru/" shape="rect" coords="12,34,56,78">
+<area href="https://nure.ua/ru/faculty/fakultet-kompyuternyih-nauk" shape="rect" coords="150,170,90,100">
+<area href="https://nure.ua/ru/universitet/it-prostranstvo-nure/raspisanie-zanjatij-hnurje" shape="rect" coords="300,500,140,100">
+
+</body>
+<html>
